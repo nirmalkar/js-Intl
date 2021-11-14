@@ -1,0 +1,10 @@
+{
+  "name": "js-intl",
+  "version": "1.0.0",
+  "description": "easy internationalization for vanilla js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Hemant Nirmalkar",
+  "license": "ISC"
+}
